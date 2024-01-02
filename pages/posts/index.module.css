@@ -1,1 +1,14 @@
-
+.title {
+  color: Red;
+  background-color: White;
+}
+.h1 {
+  color: blue;
+  background-color: White;
+}
+.header {
+  color: green;
+  background-color: White;
+  font-size: 20px;
+  font-family: arial;  
+}
